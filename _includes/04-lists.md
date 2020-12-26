@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+- Just a list item
+- Another one
+  - Nested list item
+  - And another one
